@@ -138,6 +138,9 @@ python run_mcp_server.py
 Edit `config/mcp.json` to configure additional MCP servers. Use
 `type: "stdio"` with `command` and `args` for local processes or
 `type: "sse"` with a `url` for HTTP servers.
+This repository includes a sample `mcp.json` populated with many community
+servers using their GitHub URLs as placeholders. Replace those URLs with the
+actual endpoints where the servers are running.
 
 For unstable multi-agent version, you also can run:
 
