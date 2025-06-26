@@ -1,0 +1,264 @@
+{
+    "mcpServers": {
+        "hcp_terraform": {
+            "type": "sse",
+            "url": "https://github.com/dulltz/mcp-server-hcp-terraform"
+        },
+        "terraform_assistant": {
+            "type": "sse",
+            "url": "https://github.com/guilhermeyoshida/mcp-terraform-assistant"
+        },
+        "terraform_mcp_server": {
+            "type": "sse",
+            "url": "https://github.com/jashkahar/Terraform-MCP-Server"
+        },
+        "tfmcp": {
+            "type": "sse",
+            "url": "https://github.com/nwiizo/tfmcp"
+        },
+        "pulumi_mcp": {
+            "type": "sse",
+            "url": "https://github.com/pulumi/mcp-server"
+        },
+        "terraform_cloud_mcp": {
+            "type": "sse",
+            "url": "https://github.com/severity1/terraform-cloud-mcp"
+        },
+        "terraform_registry_mcp": {
+            "type": "sse",
+            "url": "https://github.com/thrash888/terraform-mcp-server"
+        },
+        "terraform_python_mcp": {
+            "type": "sse",
+            "url": "https://github.com/westonplatter/mcp-terraform-python"
+        },
+        "stakpak_mcp": {
+            "type": "sse",
+            "url": "https://github.com/stakpak/mcp"
+        },
+        "kubectl_mcp_server": {
+            "type": "sse",
+            "url": "https://github.com/rohitg00/kubectl-mcp-server"
+        },
+        "k8s_mcp_server": {
+            "type": "sse",
+            "url": "https://github.com/alexei-led/k8s-mcp-server"
+        },
+        "flux_kubernetes_mcp": {
+            "type": "sse",
+            "url": "https://github.com/Flux159/mcp-server-kubernetes"
+        },
+        "manusa_kubernetes_mcp": {
+            "type": "sse",
+            "url": "https://github.com/manusa/kubernetes-mcp-server"
+        },
+        "portainer_mcp": {
+            "type": "sse",
+            "url": "https://github.com/portainer/portainer-mcp"
+        },
+        "strowk_k8s_mcp_go": {
+            "type": "sse",
+            "url": "https://github.com/strowk/mcp-k8s-go"
+        },
+        "k8m_mcp": {
+            "type": "sse",
+            "url": "https://github.com/weibaohui/k8m"
+        },
+        "kom_mcp": {
+            "type": "sse",
+            "url": "https://github.com/weibaohui/kom"
+        },
+        "k8s_eye_mcp": {
+            "type": "sse",
+            "url": "https://github.com/wenhuwang/mcp-k8s-eye"
+        },
+        "multicluster_mcp_server": {
+            "type": "sse",
+            "url": "https://github.com/yanmxa/multicluster-mcp-server"
+        },
+        "mcp_nomad": {
+            "type": "sse",
+            "url": "https://github.com/kocierik/mcp-nomad"
+        },
+        "awslabs_mcp": {
+            "type": "sse",
+            "url": "https://github.com/awslabs/mcp"
+        },
+        "aws_mcp_server": {
+            "type": "sse",
+            "url": "https://github.com/alexei-led/aws-mcp-server"
+        },
+        "ado_mcp": {
+            "type": "sse",
+            "url": "https://github.com/aaronsb/ado-mcp"
+        },
+        "adls_mcp_server": {
+            "type": "sse",
+            "url": "https://github.com/erikhoward/adls-mcp-server"
+        },
+        "azure_resource_graph_mcp": {
+            "type": "sse",
+            "url": "https://github.com/hardik-id/azure-resource-graph-mcp-server"
+        },
+        "azure_cli_mcp": {
+            "type": "sse",
+            "url": "https://github.com/jdubois/azure-cli-mcp"
+        },
+        "azure_devops_mcp_server": {
+            "type": "sse",
+            "url": "https://github.com/stefanskiasan/azure-devops-mcp-server"
+        },
+        "azure_devops_mcp": {
+            "type": "sse",
+            "url": "https://github.com/Tiberriver256/mcp-server-azure-devops"
+        },
+        "alibaba_cloud_ops_mcp": {
+            "type": "sse",
+            "url": "https://github.com/aliyun/alibaba-cloud-ops-mcp-server"
+        },
+        "esxi_mcp_server": {
+            "type": "sse",
+            "url": "https://github.com/bright8192/esxi-mcp-server"
+        },
+        "cloudflare_mcp_server": {
+            "type": "sse",
+            "url": "https://github.com/cloudflare/mcp-server-cloudflare"
+        },
+        "nutanix_mcp": {
+            "type": "sse",
+            "url": "https://github.com/thunderboltsid/mcp-nutanix"
+        },
+        "iterm_mcp": {
+            "type": "sse",
+            "url": "https://github.com/ferrislucas/iterm-mcp"
+        },
+        "mcp_server_commands": {
+            "type": "sse",
+            "url": "https://github.com/g0t4/mcp-server-commands"
+        },
+        "python_executor_mcp": {
+            "type": "sse",
+            "url": "https://github.com/maxim-saplin/mcp_safe_local_python_executor"
+        },
+        "cli_mcp_server": {
+            "type": "sse",
+            "url": "https://github.com/MladenSU/cli-mcp-server"
+        },
+        "terminal_deepseek_mcp": {
+            "type": "sse",
+            "url": "https://github.com/OthmaneBlial/term_mcp_deepseek"
+        },
+        "shell_server_mcp": {
+            "type": "sse",
+            "url": "https://github.com/tumf/mcp-shell-server"
+        },
+        "timeserver_mcp": {
+            "type": "sse",
+            "url": "https://github.com/SecretiveShell/MCP-timeserver"
+        },
+        "simple_timeserver_mcp": {
+            "type": "sse",
+            "url": "https://github.com/andybrandt/mcp-simple-timeserver"
+        },
+        "homeassistant_mcp": {
+            "type": "sse",
+            "url": "https://github.com/allenporter/mcp-server-home-assistant"
+        },
+        "github_enterprise_mcp": {
+            "type": "sse",
+            "url": "https://github.com/ddukbg/github-enterprise-mcp"
+        },
+        "gitlab_mr_mcp": {
+            "type": "sse",
+            "url": "https://github.com/kopfrechner/gitlab-mr-mcp"
+        },
+        "git_mcp": {
+            "type": "sse",
+            "url": "https://github.com/modelcontextprotocol/server-git"
+        },
+        "github_mcp": {
+            "type": "sse",
+            "url": "https://github.com/modelcontextprotocol/server-github"
+        },
+        "gitlab_mcp": {
+            "type": "sse",
+            "url": "https://github.com/modelcontextprotocol/server-gitlab"
+        },
+        "gitee_mcp": {
+            "type": "sse",
+            "url": "https://github.com/oschina/mcp-gitee"
+        },
+        "azure_devops_mcp_duplicate": {
+            "type": "sse",
+            "url": "https://github.com/Tiberriver256/mcp-server-azure-devops"
+        },
+        "github_actions_mcp": {
+            "type": "sse",
+            "url": "https://github.com/ko1ynnky/github-actions-mcp-server"
+        },
+        "git_ingest_mcp": {
+            "type": "sse",
+            "url": "https://github.com/adhikasp/mcp-git-ingest"
+        },
+        "prometheus_mcp_server": {
+            "type": "sse",
+            "url": "https://github.com/pab1it0/prometheus-mcp-server"
+        },
+        "grafana_mcp_server": {
+            "type": "sse",
+            "url": "https://github.com/grafana/mcp-grafana"
+        },
+        "lucidity_mcp": {
+            "type": "sse",
+            "url": "https://github.com/hyperb1iss/lucidity-mcp"
+        },
+        "last9_mcp_server": {
+            "type": "sse",
+            "url": "https://github.com/last9/last9-mcp-server"
+        },
+        "metoro_mcp_server": {
+            "type": "sse",
+            "url": "https://github.com/metoro-io/metoro-mcp-server"
+        },
+        "raygun_mcp_server": {
+            "type": "sse",
+            "url": "https://github.com/modelcontextprotocol/server-raygun"
+        },
+        "sentry_mcp_server": {
+            "type": "sse",
+            "url": "https://github.com/modelcontextprotocol/server-sentry"
+        },
+        "logfire_mcp": {
+            "type": "sse",
+            "url": "https://github.com/pydantic/logfire-mcp"
+        },
+        "seekrays_mcp_monitor": {
+            "type": "sse",
+            "url": "https://github.com/seekrays/mcp-monitor"
+        },
+        "victoriametrics_mcp": {
+            "type": "sse",
+            "url": "https://github.com/VictoriaMetrics-Community/mcp-victoriametrics"
+        },
+        "alertmanager_mcp": {
+            "type": "sse",
+            "url": "https://github.com/kaznak/alertmanager-mcp"
+        },
+        "dynatrace_mcp": {
+            "type": "sse",
+            "url": "https://github.com/dynatrace-oss/dynatrace-mcp"
+        },
+        "docker_mcp_server": {
+            "type": "sse",
+            "url": "https://github.com/ckreiling/mcp-server-docker"
+        },
+        "podman_mcp_server": {
+            "type": "sse",
+            "url": "https://github.com/manusa/podman-mcp-server"
+        },
+        "docker_quantgeek_mcp": {
+            "type": "sse",
+            "url": "https://github.com/QuantGeekDev/docker-mcp"
+        }
+    }
+}
